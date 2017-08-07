@@ -9,3 +9,4 @@
   
 # Considerações
    Foi bastante importante fazermos esse aplicativo porque foi possível colocarmos em prática o que aprendemos durante o curso técnico em informática.
+
